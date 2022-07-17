@@ -2,8 +2,10 @@ from owslib.wms import WebMapService
 wms = WebMapService('http://wms.jpl.nasa.gov/wms.cgi', version='1.1.1')
 wms.identification.type
 'OGC:WMS'
+
 wms.identification.version
 '1.1.1'
+
 wms.identification.title
 'JPL Global Imagery Service'
 wms.identification.abstract
