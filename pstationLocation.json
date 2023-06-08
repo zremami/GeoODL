@@ -1,0 +1,621 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0091",
+                "locality_name": "Eckernförde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8684,
+                    54.47461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0147",
+                "locality_name": "Meddewade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44395,
+                    53.81201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0177",
+                "locality_name": "Wittingen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7304,
+                    52.73054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0178",
+                "locality_name": "Wittingen-Boitzenhagen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.81052,
+                    52.61646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0227",
+                "locality_name": "Sehlde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.26071,
+                    52.03818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0253",
+                "locality_name": "Unsen - Hameln"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.39288,
+                    52.15057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0273",
+                "locality_name": "Bockenem-Bornum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14231,
+                    51.97438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0402",
+                "locality_name": "Lüder/Langenbrügge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75724,
+                    52.80084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ0714",
+                "locality_name": "Lichtenau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.89108,
+                    51.61695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1049",
+                "locality_name": "Wörth am Rhein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.24919,
+                    49.04812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1174",
+                "locality_name": "Adelsheim ST Leibenstadt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41926,
+                    49.36954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1512",
+                "locality_name": "Fürstenzell OT Gföhret"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35328,
+                    48.54522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1657",
+                "locality_name": "Gräfenberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.24262,
+                    49.64769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1694",
+                "locality_name": "Adelshofen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.17395,
+                    49.44147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1842",
+                "locality_name": "Weißenhorn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1703,
+                    48.3052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ1867",
+                "locality_name": "Nördlingen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.50541,
+                    48.85193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2028",
+                "locality_name": "Bremen-Blumenthal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.58158,
+                    53.1877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2199",
+                "locality_name": "Speyer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.446,
+                    49.30882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2210",
+                "locality_name": "Korntal-Münchingen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.13651,
+                    48.83165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2216",
+                "locality_name": "Löwenstein"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.38567,
+                    49.09575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2397",
+                "locality_name": "Löwenberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15799,
+                    52.90098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2429",
+                "locality_name": "Lychen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.31814,
+                    53.22108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2507",
+                "locality_name": "Bischofswerda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19844,
+                    51.13797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2510",
+                "locality_name": "Mulda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40677,
+                    50.80819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2628",
+                "locality_name": "Wiesenau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.58207,
+                    52.23594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2634",
+                "locality_name": "Lögow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59361,
+                    52.91194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2654",
+                "locality_name": "Kittendorf"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.90646,
+                    53.62644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2666",
+                "locality_name": "Steesow"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.53974,
+                    53.16018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2716",
+                "locality_name": "Reitzenhain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.21763,
+                    50.56063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2866",
+                "locality_name": "Bargenstedt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.15598,
+                    54.09594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ2979",
+                "locality_name": "Geldern"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.32791,
+                    51.52315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3041",
+                "locality_name": "Remchingen OT Singen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.56452,
+                    48.95452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3045",
+                "locality_name": "Fahretoft"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.79482,
+                    54.70488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3050",
+                "locality_name": "Buchholz in der Nordheide"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.88907,
+                    53.33815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3065",
+                "locality_name": "Kessin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.17918873,
+                    54.05407333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3159",
+                "locality_name": "Halberstadt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.04512,
+                    51.85978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3198",
+                "locality_name": "Bilsen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.87779,
+                    53.77046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3262",
+                "locality_name": "Spreetal OT Zerre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.38405,
+                    51.53244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3375",
+                "locality_name": "Kall-Steinfeld"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.56108,
+                    50.50277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3382",
+                "locality_name": "Fritzlar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.27987,
+                    51.119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3413",
+                "locality_name": "Vahlberg OT Groß Vahlberg NLB02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.70159,
+                    52.13733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3437",
+                "locality_name": "Willebadessen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0493,
+                    51.63417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3543",
+                "locality_name": "Kiel-Holtenau DWD"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.14248,
+                    54.37749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "locality_code": "DEZ3551",
+                "locality_name": "Hollenstedt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.71439,
+                    53.36092
+                ]
+            }
+        }
+    ]
+}
