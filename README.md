@@ -1,3 +1,3 @@
-# About the Application
+# About the Project
 
 This project is centered around the data mining phase of a Master's thesis project titled "Designing and Evaluating a Web-Based Decision Support System for Spatial Problem Solving." Within this project, all the essential data mining steps have been successfully executed. The outcomes of this project will be utilized in another project for deployment purposes. Each class or notebook file is accompanied by an introduction specifying its intended purpose or functionality.
