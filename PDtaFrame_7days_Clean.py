@@ -1,3 +1,4 @@
+# This class was created to resample, clean and aggregate wfs data to make it ready for model
 from pandas import *
 import pandas as pd
 import numpy as np
@@ -22,31 +23,26 @@ def DataFrame7daysModel(df1,df2):
     df2 = df2.set_index(df2['End_measure'])
 
     # resample it
-    
     df2=df2.resample('H').mean()
-    #print(df2_locality_code.head())
 
-
+    # join data
     df3 = df1.join(df2, lsuffix='_odl', rsuffix='_precipitation', how='inner')
-    #print(df3)
+
 
     # drop all rows with any NaN and NaT values
     df3 = df3.dropna()
-    #print(df3)
 
+    # create the varibale precipiation two hours prior
     value_precipitationMinus2List = []
-    # i++ = (1,len(df3),2)
     for index in range(len(df3)):
-        #if index == len(df3)- 2:
-            #break
+
         if index == 0 or index == 1 or index == 2:
             continue
         mines2=index-2
         value_precipitationMinus2List.append(df3['Value_precipitation'][mines2])
-        
-    df3 = df3.iloc[:-3]
 
-    #value_odlPlus2array = np.array(value_odlPlus2List)
+    # create final dataset    
+    df3 = df3.iloc[:-3]
     df3['Value_precipitationMinus2'] = np.array(value_precipitationMinus2List)
     df3['Month'] = df3['End_measure'].dt.month
     df_dummies = pd.get_dummies(df3,columns=['Month']) 
